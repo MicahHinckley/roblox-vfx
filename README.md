@@ -1,3 +1,6 @@
+# ARCHIVED
+I haven't touched this project in a long time and I am not planning to revisit this. If I did, it would be a lot different.
+
 # roblox-vfx
 
 For now, you can only create a 3D particle emitter with the VFX module.
